@@ -1,22 +1,20 @@
 > **Note:** This project was originally created as a React Props Assignment and has been updated by adding **Category Filter**, **Price Filter**, and a **responsive UI** using React and CSS.
 
-# 🛍️ Product List Application
+#  Product List Application
 
 A simple and responsive React product listing application built using reusable components and props. This project displays a collection of products and allows users to filter them by **Category** and **Price**.
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project was initially created as a **React Props Assignment**. It has now been **updated** with additional features to improve the user experience.
 
-### 🆕 Latest Update
+###  Latest Update
 - Added **Category Filter**
 - Added **Price Filter**
 - Improved responsive UI with CSS
 - Enhanced overall layout and styling
 
----
-
-## ✨ Features
+##  Features
 
 - Display products using reusable React components
 - Pass product data using **Props**
@@ -28,7 +26,7 @@ This project was initially created as a **React Props Assignment**. It has now b
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - React.js
 - JavaScript (ES6)
@@ -38,7 +36,7 @@ This project was initially created as a **React Props Assignment**. It has now b
 
 ---
 
-## 📚 React Concepts Used
+## React Concepts Used
 
 - Functional Components
 - Props
@@ -54,7 +52,7 @@ This project was initially created as a **React Props Assignment**. It has now b
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 src/
@@ -67,18 +65,3 @@ src/
 │── main.jsx
 ```
 
----
-
-## 🎯 Future Improvements
-
-- Search Products
-- Sorting (Low to High / High to Low)
-- Add to Cart
-- Product Details Page
-- Favorite Products
-
----
-
-## 👩‍💻 Author
-
-**Mahnoor Ashfaq**
