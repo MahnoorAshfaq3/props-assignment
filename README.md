@@ -1,16 +1,84 @@
-# React + Vite
+> **Note:** This project was originally created as a React Props Assignment and has been updated by adding **Category Filter**, **Price Filter**, and a **responsive UI** using React and CSS.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🛍️ Product List Application
 
-Currently, two official plugins are available:
+A simple and responsive React product listing application built using reusable components and props. This project displays a collection of products and allows users to filter them by **Category** and **Price**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Project Overview
 
-## React Compiler
+This project was initially created as a **React Props Assignment**. It has now been **updated** with additional features to improve the user experience.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 🆕 Latest Update
+- Added **Category Filter**
+- Added **Price Filter**
+- Improved responsive UI with CSS
+- Enhanced overall layout and styling
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- Display products using reusable React components
+- Pass product data using **Props**
+- Dynamic rendering using **map()**
+- Filter products by **Category**
+- Filter products by **Price**
+- Responsive design using **CSS Grid & Media Queries**
+- Modern card layout with hover effects
+
+---
+
+## 🛠️ Technologies Used
+
+- React.js
+- JavaScript (ES6)
+- JSX
+- CSS3
+- HTML5
+
+---
+
+## 📚 React Concepts Used
+
+- Functional Components
+- Props
+- useState Hook
+- Array map()
+- Array filter()
+- Conditional Rendering
+- Event Handling
+- Component Reusability
+- Responsive Design
+- CSS Grid
+- Media Queries
+
+---
+
+## 📂 Project Structure
+
+```text
+src/
+│── components/
+│     ├── CardComponent.jsx
+│     └── Topnav.jsx
+│
+│── App.jsx
+│── App.css
+│── main.jsx
+```
+
+---
+
+## 🎯 Future Improvements
+
+- Search Products
+- Sorting (Low to High / High to Low)
+- Add to Cart
+- Product Details Page
+- Favorite Products
+
+---
+
+## 👩‍💻 Author
+
+**Mahnoor Ashfaq**
